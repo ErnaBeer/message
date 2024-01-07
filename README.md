@@ -1,4 +1,4 @@
-# Leo message struct 
+  Leo message struct 
 A basic example showing how to declare a struct in the Leo language.
 
 ## Run Guide
@@ -14,3 +14,4 @@ To execute this program, run:
 ```bash
 leo execute main
 ```
+ 
